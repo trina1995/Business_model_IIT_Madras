@@ -1,5 +1,5 @@
 # Business_model_IIT_Madras
-**Title**: Expoloring Emerging Business Model in Fruits and Vegetables
+**Title**: Expoloring Emerging Business Model in Fruits and Vegetables.\\
 **Description**: The traditional fresh fruit and vegetable (F and V) supply chains in India faces many structural challenges. 
 The supply chain is fragmented and has multiple intermediaries-mainly independent entrepreneurs which makes the composition
 of the supply chain extremely fragile wherein, if one of them fails, the supply chain does not earn money, and hence
